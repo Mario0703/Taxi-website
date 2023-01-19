@@ -29,14 +29,20 @@
 }
 
 .form{
-    text-align: center;
     padding: 40px;
+    display: flex;
+    align-items: center;
     margin-left: 40px;
     margin-right: 40px;
+    height: 0px;
+    width: 800px;
     margin-top: 340px;
-    margin-bottom: auto;
     background-color: white;
     border-radius: 10px;
+}
+
+.form label{
+    margin-right: 10px;
 }
 
 .nav-section li{
@@ -88,3 +94,24 @@
     margin-left: 2em;
     max-width: 200px;
 }
+
+.btn{
+    border: none;
+    border-radius: 0  10px 10px 0;
+    height: 80px;
+    width: 110px;
+    margin-right: -50px; 
+    cursor: pointer;
+
+}
+
+.btn :hover{
+    background-color: #05836e;
+}
+
+.social-media{
+    margin-left: 350px;
+    border: 1px solid red;
+}
+
+
