@@ -19,6 +19,7 @@
     text-align: center;
     margin-bottom: 20px;
     color: black;
+    font-family: Arial, Helvetica, sans-serif
 }
 .Taxi-forum{
     background-image: url("Billeder/Taxa/taxi.jpg");
@@ -76,7 +77,7 @@
 {
     text-align: center;
     max-width: 700px;
-    font-family: 'Open Sans', serif;
+    font-family:Arial, Helvetica, sans-serif
 
 }
 
@@ -111,7 +112,6 @@
 
 .social-media{
     margin-left: 350px;
-    border: 1px solid red;
 }
 
 
